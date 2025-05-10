@@ -1,5 +1,8 @@
 # Gen‑AI Cloud Advisor (AWS) – v0.2
+
 **Status**: :warning: *Early development preview*.  Gen‑AI powered rightsizing landed in `v0.2`.
+
+> **DISCLAIMER**: This software is provided as a preview version with NO WARRANTY OR GUARANTEE of any kind. Use at your own risk. This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## What it Does
 * Ingests AWS Cost & Usage + CloudWatch metrics daily.  
